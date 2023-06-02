@@ -1,1 +1,1 @@
-# Hand_written_Digit_recognization
+Hand written digit recognization.Dataset loaded from sklearn Library 
